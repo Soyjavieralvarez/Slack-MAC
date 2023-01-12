@@ -88,6 +88,7 @@ a{text-decoration: none;}
     border-radius: 10px;
     font-weight: bold;
     text-align: center;
+    
 }
 
 .header-singup__button2 p{
@@ -107,7 +108,7 @@ a{text-decoration: none;}
 }
 
 .header-video video{
-    border: solid 1px black;
+    margin:10px;
     width:700px;
 }
 
